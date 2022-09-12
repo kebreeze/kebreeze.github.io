@@ -1,4 +1,4 @@
-# Project 1 Blog Post
+# ST 558 Project 1 Blog Post
 
 The purpose of project 1 was to learn to write functions to manipulate and process data sets that all follow the same format and then functions that would automatically plot the returned data based on the class of that dataset. Prior to this project I had essentially no experience creating and writing my own functions. Over the course of completing the project I found that reading and understanding the documentation for various functions within R became much easier, which in turn helped me to think more methodically about how to set up my own functions. Even though it was frustrating at times, it was really helpful to work through issues that did not return the results that I expected, or that refused to run at all. These issues forced me to investigate how different functions and objects work within R and what I was trying to ask them to do in the context of the project.
 
